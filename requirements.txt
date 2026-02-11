@@ -1,0 +1,12 @@
+numpy
+pandas
+langchain
+python-dotenv
+langchain_community
+ipykernel
+langchain_core
+streamlit
+faiss-cpu
+ollama
+sentence-transformers
+scikit-learn
